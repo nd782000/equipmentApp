@@ -9,4 +9,5 @@ The aim of this project is to create an equipment management application in swif
 
 
 ###To Do
-* Main list table sort event listeners 
+* Main list table sort event listeners
+* Figure out way to transfer projects between terminals
