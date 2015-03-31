@@ -4,7 +4,7 @@
 //
 //  Created by Nicholas Digiando on 3/31/15.
 //  Copyright (c) 2015 Nicholas Digiando. All rights reserved.
-//
+//  James Test
 
 import UIKit
 import CoreData
