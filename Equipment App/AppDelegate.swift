@@ -9,6 +9,8 @@
 import UIKit
 import CoreData
 
+Hello
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate, UISplitViewControllerDelegate {
 
