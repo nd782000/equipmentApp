@@ -13,8 +13,6 @@ import CoreData
 class AppDelegate: UIResponder, UIApplicationDelegate, UISplitViewControllerDelegate {
 
     var window: UIWindow?
-
-    JAMES WAS HERE
     
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
