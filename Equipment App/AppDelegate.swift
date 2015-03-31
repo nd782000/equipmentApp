@@ -9,6 +9,8 @@
 import UIKit
 import CoreData
 
+JAMES TEST
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate, UISplitViewControllerDelegate {
 
