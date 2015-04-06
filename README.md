@@ -81,13 +81,16 @@ The aim of this project is to create an equipment management application in swif
 
 ####ItemViewController.swift
 #####Complete
-* ..
+* Field layout
+* Edit mode layout
 
 #####To Do
 * Available to be passed a variable to control view settings based on labor or material
 * Make task list
 * Estimated quantity
 * Link to usage screen
+* Load data from PHP
+* Pass from edit to PHP
 
 
 ####TaskViewController.swift
