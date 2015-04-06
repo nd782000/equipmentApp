@@ -54,3 +54,51 @@ The aim of this project is to create an equipment management application in swif
 * Full item information
 * Improve layout and information spacing
 * Load parts, schedule and history cells once data available.
+
+
+####ScheduleViewController.swift
+#####Complete
+* Main tableview
+* Switcher
+
+#####To Do
+* Finish schedule table cell
+* Load data from PHP
+* Add icons to table cell
+
+
+####WorkOrderViewController.swift
+#####Complete
+* Layout started
+* Fields in place
+* Edit layout
+
+#####To Do
+* Load data from PHP
+* Pass data from edit back to PHP
+* Neaten layout based on true value look
+
+
+####ItemViewController.swift
+#####Complete
+* ..
+
+#####To Do
+* Available to be passed a variable to control view settings based on labor or material
+* Make task list
+* Estimated quantity
+* Link to usage screen
+
+
+####TaskViewController.swift
+#####Complete
+* ..
+
+#####To Do
+* switch view/edit eit mode
+* Task Description
+* Display task images
+* Task status
+* 
+
+
