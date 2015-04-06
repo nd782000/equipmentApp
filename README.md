@@ -35,3 +35,21 @@ The aim of this project is to create an equipment management application in swif
 * Preload crew names for picker once available
 * Date Selector keyboard for purchase date?
 * Form validation methods
+
+
+####EquipmentViewController.swift
+#####Complete
+* Show equipment image
+* Show equipment detail
+* Change page title to equipment name
+* Parts tableview
+* Schedule tableview
+* History tableview
+* Table switcher
+* Edit Button
+
+#####To Do
+* Edit functionality
+* Full item information
+* Improve layout and information spacing
+* Load parts, schedule and history cells once data available.
