@@ -130,7 +130,9 @@ The aim of this project is to create an equipment management application in swif
 * ..
 
 #####To Do
-* Two views (labor/material)
+* Two types (labor/material)
+* Two views (View / Edit)
+* 4 states total
 * Entry pickers, buttons etc. Start/Stop time and date
 * Crew/Employee selector (Multi)
 
