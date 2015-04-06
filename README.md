@@ -35,6 +35,7 @@ The aim of this project is to create an equipment management application in swif
 * Preload crew names for picker once available
 * Date Selector keyboard for purchase date?
 * Form validation methods
+* Auto name generation
 
 
 ####EquipmentViewController.swift
