@@ -93,6 +93,16 @@ The aim of this project is to create an equipment management application in swif
 * Pass from edit to PHP
 
 
+####ItemListViewController.swift
+#####Complete
+* Layout
+* Tableview
+* Event listeners
+
+#####To Do
+* Load data from PHP
+
+
 ####TaskViewController.swift
 #####Complete
 * ..
@@ -102,6 +112,25 @@ The aim of this project is to create an equipment management application in swif
 * Task Description
 * Display task images
 * Task status
-* 
 
+
+
+####UsageListViewController.swift
+#####Complete
+* ..
+
+#####To Do
+* Tableview
+* Add entry button
+* Summary text area (estimated vs actual)
+
+
+####UsageEntryViewController.swift
+#####Complete
+* ..
+
+#####To Do
+* Two views (labor/material)
+* Entry pickers, buttons etc. Start/Stop time and date
+* Crew/Employee selector (Multi)
 
