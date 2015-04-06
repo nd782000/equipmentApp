@@ -41,7 +41,7 @@ The aim of this project is to create an equipment management application in swif
 ####EquipmentViewController.swift
 #####Complete
 * Show equipment image
-* Show equipment detail
+
 * Change page title to equipment name
 * Parts tableview
 * Schedule tableview
@@ -51,6 +51,7 @@ The aim of this project is to create an equipment management application in swif
 
 #####To Do
 * Edit functionality
+* Show equipment detail (including new fields)
 * Full item information
 * Improve layout and information spacing
 * Load parts, schedule and history cells once data available.
