@@ -18,7 +18,7 @@ The aim of this project is to create an equipment management application in swif
 #####To Do
 * Reverse order on click already selected filter (Attempted, couldn't work it out.)
 * Crew names rather than ID
-* ..
+
 
 ####NewEquipmentViewController.swift
 #####Complete
