@@ -135,4 +135,5 @@ The aim of this project is to create an equipment management application in swif
 * 4 states total
 * Entry pickers, buttons etc. Start/Stop time and date
 * Crew/Employee selector (Multi)
+* Quanitity Descriptor (e.g pounds, hrs, etc.)
 
